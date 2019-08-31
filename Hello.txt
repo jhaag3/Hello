@@ -9,8 +9,6 @@ int main(int argc, char **argv) {
 
   printf("Jon Haag\n");
   printf("Electrical Engineering\n");
-  printf("Yaxuan Zheng\n");
-  printf("Electrical Engineering\n");
   printf("Brady Gebbie\n");
   printf("computer science\n");
   printf("Yaxuan Zheng\n");
