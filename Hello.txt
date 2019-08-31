@@ -1,5 +1,5 @@
 *This program is for CSCE155E Hack
- * Author: Jon Haag,
+ * Author: Jon Haag, Yaxuan Zheng, Brady Gebbie, Emily Jesgarz
  * Date: 2010/08/29
  *
 #include<stdlib.h>
@@ -15,5 +15,6 @@ int main(int argc, char **argv) {
   printf("Electrical Engineering\n");
   printf("Emily Jesgarz\n");
   printf("Biological Engineering\n");
+
   return 0;
 }
